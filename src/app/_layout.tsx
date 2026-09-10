@@ -6,7 +6,7 @@ export default function RootLayout() {
       <Stack.Screen
         name="index"
         options={{
-          title: "Thực hành useState",
+          title: "React Native Hooks",
           headerTitleAlign: "center",
         }}
       />
